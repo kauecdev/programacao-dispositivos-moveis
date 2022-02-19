@@ -26,3 +26,4 @@ Questão 08:
 ![questao_08](https://user-images.githubusercontent.com/61801350/154803370-44a5e49c-4ec3-4a7f-a269-747fea588a1a.png)
 
 Questão 09:
+https://youtu.be/0HMgjX9aO1g
