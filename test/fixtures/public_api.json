@@ -1,0 +1,14 @@
+{
+  "count": 1,
+  "entries": [
+    {
+      "API": "CoinCap",
+      "Description": "Real time Cryptocurrency prices through a RESTful API",
+      "Auth": "",
+      "HTTPS": true,
+      "Cors": "unknown",
+      "Link": "https://docs.coincap.io/",
+      "Category": "Cryptocurrency"
+    }
+  ]
+}
